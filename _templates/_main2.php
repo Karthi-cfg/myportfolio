@@ -13,8 +13,8 @@
         </div>
       </div>
     </div>
-    <!-- card 2 -->
-    <div class="col">
+    <!-- <-- card 2 -->
+     <div class="col">
       <div class="card bg-dark">
         <div style="height:60px;width:100%;">
         <div class="icon text-center circle"style="height:50px;width:50px; display:flex; flex-direction:column; justify-content:center;">
@@ -29,7 +29,7 @@
     </div>
 
     <!-- card 3 -->
-    <div class="col">
+     <div class="col">
       <div class="card bg-dark">
         <div style="height:60px;width:100%;">
         <div class="icon text-center circle"style="height:50px;width:50px; display:flex; flex-direction:column; justify-content:center;">
@@ -41,10 +41,10 @@
           <p class="card-text"style="text-align:center;color:#d5d5d5;">Consistency is a key of and part ofsuccess. </p>
         </div>
       </div>
-    </div>
+    </div> 
 
     <!-- card 4 -->
-    <div class="col">
+     <div class="col">
       <div class="card bg-dark">
         <div style="height:60px;width:100%;">
         <div class="icon text-center circle"style="height:50px;width:50px; display:flex; flex-direction:column; justify-content:center;">
@@ -59,4 +59,7 @@
     </div>
   </div>
   </div>
-  <hr style="color:#fff;">
+  <hr style="color:#fff;"> 
+
+
+ 

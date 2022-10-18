@@ -22,6 +22,8 @@
 <!-- main content left end -->
 
 <!-- my picture start -->
+<!-- my picture start -->
+
 <div class="col-md-6">
    
 <!-- <i class="bi bi-laptop text-start "style="color: #007ced;"></i> -->
