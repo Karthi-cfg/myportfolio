@@ -186,6 +186,7 @@ margin: 30px 0 10px;
       <h2>Thank you!</h2>
       <p>Your message has been successfully submited. Thanks!</p>
       <button type="button">OK</button>
+      <button type="button">OK</button>
       </div> -->
     </div>
   </form>
