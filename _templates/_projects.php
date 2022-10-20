@@ -41,4 +41,3 @@
 </a>
 </div>
 </section>
-<hr style="color:#fff;">

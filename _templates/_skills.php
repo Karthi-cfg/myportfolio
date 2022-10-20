@@ -29,34 +29,7 @@
 <!-- nav bar end -->
 
  <!-- Skills Section Start Front-End -->
- <section id="skills">
-<!-- <div class="container mt-4 text-white"style="background-color:#222222!important;">
-<h2 class="heading">Skills</h2>
-<div class="row mt-4">
-    <div class="col-6 myskills">
-        <h5>Basic knowledge in </h5>
-<ul>
-    <li>PHP</li>
-    <li>Java Script</li>
-    <li>Python</li>
-    <li>Linux</li>
-</ul>
-    </div>
 
-    <div class="col-6">
-        <h5>Intermediate knowledge in </h5>
-<ul>
-    <li>C programming</li>
-    <li>Java programming</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Bootstrap</li>
-    <li>SQL</li>
-</ul>
-    </div>
-
-</div>
-</div> -->
 <div class="container mt-4" style="background-color:#222222!important;">
     <h4 class="text-white py-2" style="color:#fff;style;border-bottom:1px solid #007ced; width:60px;">Skills</h4>
 <div class="row">
@@ -91,4 +64,3 @@
   </div>
 </div>
 </div>
-<hr style="color:#fff;">

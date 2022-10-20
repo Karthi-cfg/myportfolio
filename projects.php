@@ -11,9 +11,11 @@ include 'libs/load.php';
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>projects</title>
-    
+    <?load_templates('_head')?>
 </head>
 <body>
-
+<?load_templates('_nav')?>
+<?load_templates('_projects')?>
+<?load_templates('_footer')?>
 </body>
 </html>

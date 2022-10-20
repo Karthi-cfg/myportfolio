@@ -143,7 +143,7 @@ margin: 30px 0 10px;
   }
 </style>
 </head>
-<section id="contact">
+
 <div class="container mt-5">
 <h2 style="color:white;">Contact Me</h2>
   <form method="post"id="form">
@@ -191,7 +191,7 @@ margin: 30px 0 10px;
     </div>
   </form>
 </div>
-</section>
+
 <?php
 
 print("<script>

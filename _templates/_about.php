@@ -39,9 +39,9 @@
         about SNA-> SNA is World's First Teach Academy With A Virtual Private Network.my goal is become a web developer</small></p>
       </div>
 
-      <div class="col-md-6 text-end" style="text-align: center !important;">
+      <div class="col-md-6 text-end myimg2" style="text-align: center !important;">
    
-    <img src="/portfolio/karthi.jpg" class="rounded" alt="my pic">
+    <img src="/portfolio/karthi.jpg" class="rounded " id="myimg"alt="my pic">
   </div>
       </div>
     </div>
@@ -111,4 +111,3 @@
 </div>
 
 </section>
-<hr style="color:#fff;">

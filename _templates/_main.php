@@ -1,5 +1,5 @@
 <!-- main content left start -->
-<section id="index">
+
 <div class="container mt-5" style="background-color:#222222!important;">
     <div class="row">
         <div class="col-md-6">
@@ -31,4 +31,3 @@
   </div>
     </div> 
 </div>
-</section>
